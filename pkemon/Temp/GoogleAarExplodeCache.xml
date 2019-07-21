@@ -1,0 +1,206 @@
+<aars>
+  <explodeData>
+    <aar>android.arch.core.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+00:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/android.arch.core.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+00:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.runtime-1.0.0</aar>
+    <modificationTime>2018-11-08T15:35:03.6906362+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.customtabs-26.1.0</aar>
+    <modificationTime>2018-11-08T15:35:03.7090982+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.customtabs-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-annotations-26.1.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+00:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-compat-26.1.0</aar>
+    <modificationTime>2018-11-08T15:35:03.9773797+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-ui-26.1.0</aar>
+    <modificationTime>2018-11-08T15:35:04.0033119+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-utils-26.1.0</aar>
+    <modificationTime>2018-11-08T15:35:04.0212623+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-fragment-26.1.0</aar>
+    <modificationTime>2018-11-08T15:35:04.0422065+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-media-compat-26.1.0</aar>
+    <modificationTime>2018-11-08T15:35:04.0611556+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-v4-26.1.0</aar>
+    <modificationTime>2018-11-08T15:35:04.0761150+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-15.0.1</aar>
+    <modificationTime>2018-11-08T15:35:04.0970603+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-base-15.0.1</aar>
+    <modificationTime>2018-11-08T15:35:04.1199995+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-base-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-identifier-15.0.1</aar>
+    <modificationTime>2018-11-08T15:35:04.1389478+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-lite-15.0.1</aar>
+    <modificationTime>2018-11-08T15:35:04.1588933+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-lite-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-15.0.1</aar>
+    <modificationTime>2018-11-08T15:35:04.1778428+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-gass-15.0.1</aar>
+    <modificationTime>2018-11-08T15:35:04.1947980+01:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.crapsss.pkesound</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-gass-15.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
